@@ -73,5 +73,6 @@ This guide covered:
 - Essential Terraform commands.
 - Writing a Terraform manifest for an AWS EC2 instance.
 - Initializing, validating, planning, applying, and destroying resources with Terraform.
-
+- 
+## Author : Ramya B L
 
